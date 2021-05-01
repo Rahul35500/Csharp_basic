@@ -1,0 +1,16 @@
+D:\Csharp_Basic\Factorial\bin\Debug\net5.0\Factorial.exe
+D:\Csharp_Basic\Factorial\bin\Debug\net5.0\Factorial.deps.json
+D:\Csharp_Basic\Factorial\bin\Debug\net5.0\Factorial.runtimeconfig.json
+D:\Csharp_Basic\Factorial\bin\Debug\net5.0\Factorial.runtimeconfig.dev.json
+D:\Csharp_Basic\Factorial\bin\Debug\net5.0\Factorial.dll
+D:\Csharp_Basic\Factorial\bin\Debug\net5.0\ref\Factorial.dll
+D:\Csharp_Basic\Factorial\bin\Debug\net5.0\Factorial.pdb
+D:\Csharp_Basic\Factorial\obj\Debug\net5.0\Factorial.csprojAssemblyReference.cache
+D:\Csharp_Basic\Factorial\obj\Debug\net5.0\Factorial.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp_Basic\Factorial\obj\Debug\net5.0\Factorial.AssemblyInfoInputs.cache
+D:\Csharp_Basic\Factorial\obj\Debug\net5.0\Factorial.AssemblyInfo.cs
+D:\Csharp_Basic\Factorial\obj\Debug\net5.0\Factorial.csproj.CoreCompileInputs.cache
+D:\Csharp_Basic\Factorial\obj\Debug\net5.0\Factorial.dll
+D:\Csharp_Basic\Factorial\obj\Debug\net5.0\ref\Factorial.dll
+D:\Csharp_Basic\Factorial\obj\Debug\net5.0\Factorial.pdb
+D:\Csharp_Basic\Factorial\obj\Debug\net5.0\Factorial.genruntimeconfig.cache
