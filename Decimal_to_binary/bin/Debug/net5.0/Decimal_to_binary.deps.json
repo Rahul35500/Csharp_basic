@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Decimal_to_binary/1.0.0": {
+        "runtime": {
+          "Decimal_to_binary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Decimal_to_binary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

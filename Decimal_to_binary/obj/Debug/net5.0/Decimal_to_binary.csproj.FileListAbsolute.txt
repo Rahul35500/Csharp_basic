@@ -1,0 +1,16 @@
+D:\Csharp_Basic\Decimal_to_binary\bin\Debug\net5.0\Decimal_to_binary.exe
+D:\Csharp_Basic\Decimal_to_binary\bin\Debug\net5.0\Decimal_to_binary.deps.json
+D:\Csharp_Basic\Decimal_to_binary\bin\Debug\net5.0\Decimal_to_binary.runtimeconfig.json
+D:\Csharp_Basic\Decimal_to_binary\bin\Debug\net5.0\Decimal_to_binary.runtimeconfig.dev.json
+D:\Csharp_Basic\Decimal_to_binary\bin\Debug\net5.0\Decimal_to_binary.dll
+D:\Csharp_Basic\Decimal_to_binary\bin\Debug\net5.0\ref\Decimal_to_binary.dll
+D:\Csharp_Basic\Decimal_to_binary\bin\Debug\net5.0\Decimal_to_binary.pdb
+D:\Csharp_Basic\Decimal_to_binary\obj\Debug\net5.0\Decimal_to_binary.csprojAssemblyReference.cache
+D:\Csharp_Basic\Decimal_to_binary\obj\Debug\net5.0\Decimal_to_binary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp_Basic\Decimal_to_binary\obj\Debug\net5.0\Decimal_to_binary.AssemblyInfoInputs.cache
+D:\Csharp_Basic\Decimal_to_binary\obj\Debug\net5.0\Decimal_to_binary.AssemblyInfo.cs
+D:\Csharp_Basic\Decimal_to_binary\obj\Debug\net5.0\Decimal_to_binary.csproj.CoreCompileInputs.cache
+D:\Csharp_Basic\Decimal_to_binary\obj\Debug\net5.0\Decimal_to_binary.dll
+D:\Csharp_Basic\Decimal_to_binary\obj\Debug\net5.0\ref\Decimal_to_binary.dll
+D:\Csharp_Basic\Decimal_to_binary\obj\Debug\net5.0\Decimal_to_binary.pdb
+D:\Csharp_Basic\Decimal_to_binary\obj\Debug\net5.0\Decimal_to_binary.genruntimeconfig.cache
