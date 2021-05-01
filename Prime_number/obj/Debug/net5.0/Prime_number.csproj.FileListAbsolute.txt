@@ -1,0 +1,16 @@
+D:\Csharp_Basic\Prime_number\bin\Debug\net5.0\Prime_number.exe
+D:\Csharp_Basic\Prime_number\bin\Debug\net5.0\Prime_number.deps.json
+D:\Csharp_Basic\Prime_number\bin\Debug\net5.0\Prime_number.runtimeconfig.json
+D:\Csharp_Basic\Prime_number\bin\Debug\net5.0\Prime_number.runtimeconfig.dev.json
+D:\Csharp_Basic\Prime_number\bin\Debug\net5.0\Prime_number.dll
+D:\Csharp_Basic\Prime_number\bin\Debug\net5.0\ref\Prime_number.dll
+D:\Csharp_Basic\Prime_number\bin\Debug\net5.0\Prime_number.pdb
+D:\Csharp_Basic\Prime_number\obj\Debug\net5.0\Prime_number.csprojAssemblyReference.cache
+D:\Csharp_Basic\Prime_number\obj\Debug\net5.0\Prime_number.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp_Basic\Prime_number\obj\Debug\net5.0\Prime_number.AssemblyInfoInputs.cache
+D:\Csharp_Basic\Prime_number\obj\Debug\net5.0\Prime_number.AssemblyInfo.cs
+D:\Csharp_Basic\Prime_number\obj\Debug\net5.0\Prime_number.csproj.CoreCompileInputs.cache
+D:\Csharp_Basic\Prime_number\obj\Debug\net5.0\Prime_number.dll
+D:\Csharp_Basic\Prime_number\obj\Debug\net5.0\ref\Prime_number.dll
+D:\Csharp_Basic\Prime_number\obj\Debug\net5.0\Prime_number.pdb
+D:\Csharp_Basic\Prime_number\obj\Debug\net5.0\Prime_number.genruntimeconfig.cache
