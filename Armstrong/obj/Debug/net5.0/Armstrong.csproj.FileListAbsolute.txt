@@ -1,0 +1,16 @@
+D:\Csharp_Basic\Armstrong\bin\Debug\net5.0\Armstrong.exe
+D:\Csharp_Basic\Armstrong\bin\Debug\net5.0\Armstrong.deps.json
+D:\Csharp_Basic\Armstrong\bin\Debug\net5.0\Armstrong.runtimeconfig.json
+D:\Csharp_Basic\Armstrong\bin\Debug\net5.0\Armstrong.runtimeconfig.dev.json
+D:\Csharp_Basic\Armstrong\bin\Debug\net5.0\Armstrong.dll
+D:\Csharp_Basic\Armstrong\bin\Debug\net5.0\ref\Armstrong.dll
+D:\Csharp_Basic\Armstrong\bin\Debug\net5.0\Armstrong.pdb
+D:\Csharp_Basic\Armstrong\obj\Debug\net5.0\Armstrong.csprojAssemblyReference.cache
+D:\Csharp_Basic\Armstrong\obj\Debug\net5.0\Armstrong.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp_Basic\Armstrong\obj\Debug\net5.0\Armstrong.AssemblyInfoInputs.cache
+D:\Csharp_Basic\Armstrong\obj\Debug\net5.0\Armstrong.AssemblyInfo.cs
+D:\Csharp_Basic\Armstrong\obj\Debug\net5.0\Armstrong.csproj.CoreCompileInputs.cache
+D:\Csharp_Basic\Armstrong\obj\Debug\net5.0\Armstrong.dll
+D:\Csharp_Basic\Armstrong\obj\Debug\net5.0\ref\Armstrong.dll
+D:\Csharp_Basic\Armstrong\obj\Debug\net5.0\Armstrong.pdb
+D:\Csharp_Basic\Armstrong\obj\Debug\net5.0\Armstrong.genruntimeconfig.cache
