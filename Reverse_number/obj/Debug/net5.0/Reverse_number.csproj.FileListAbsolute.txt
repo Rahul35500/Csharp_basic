@@ -1,0 +1,16 @@
+D:\Csharp_Basic\Reverse_number\bin\Debug\net5.0\Reverse_number.exe
+D:\Csharp_Basic\Reverse_number\bin\Debug\net5.0\Reverse_number.deps.json
+D:\Csharp_Basic\Reverse_number\bin\Debug\net5.0\Reverse_number.runtimeconfig.json
+D:\Csharp_Basic\Reverse_number\bin\Debug\net5.0\Reverse_number.runtimeconfig.dev.json
+D:\Csharp_Basic\Reverse_number\bin\Debug\net5.0\Reverse_number.dll
+D:\Csharp_Basic\Reverse_number\bin\Debug\net5.0\ref\Reverse_number.dll
+D:\Csharp_Basic\Reverse_number\bin\Debug\net5.0\Reverse_number.pdb
+D:\Csharp_Basic\Reverse_number\obj\Debug\net5.0\Reverse_number.csprojAssemblyReference.cache
+D:\Csharp_Basic\Reverse_number\obj\Debug\net5.0\Reverse_number.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp_Basic\Reverse_number\obj\Debug\net5.0\Reverse_number.AssemblyInfoInputs.cache
+D:\Csharp_Basic\Reverse_number\obj\Debug\net5.0\Reverse_number.AssemblyInfo.cs
+D:\Csharp_Basic\Reverse_number\obj\Debug\net5.0\Reverse_number.csproj.CoreCompileInputs.cache
+D:\Csharp_Basic\Reverse_number\obj\Debug\net5.0\Reverse_number.dll
+D:\Csharp_Basic\Reverse_number\obj\Debug\net5.0\ref\Reverse_number.dll
+D:\Csharp_Basic\Reverse_number\obj\Debug\net5.0\Reverse_number.pdb
+D:\Csharp_Basic\Reverse_number\obj\Debug\net5.0\Reverse_number.genruntimeconfig.cache
