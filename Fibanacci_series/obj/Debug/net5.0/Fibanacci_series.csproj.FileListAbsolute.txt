@@ -1,0 +1,16 @@
+D:\Csharp_Basic\Fibanacci_series\bin\Debug\net5.0\Fibanacci_series.exe
+D:\Csharp_Basic\Fibanacci_series\bin\Debug\net5.0\Fibanacci_series.deps.json
+D:\Csharp_Basic\Fibanacci_series\bin\Debug\net5.0\Fibanacci_series.runtimeconfig.json
+D:\Csharp_Basic\Fibanacci_series\bin\Debug\net5.0\Fibanacci_series.runtimeconfig.dev.json
+D:\Csharp_Basic\Fibanacci_series\bin\Debug\net5.0\Fibanacci_series.dll
+D:\Csharp_Basic\Fibanacci_series\bin\Debug\net5.0\ref\Fibanacci_series.dll
+D:\Csharp_Basic\Fibanacci_series\bin\Debug\net5.0\Fibanacci_series.pdb
+D:\Csharp_Basic\Fibanacci_series\obj\Debug\net5.0\Fibanacci_series.csprojAssemblyReference.cache
+D:\Csharp_Basic\Fibanacci_series\obj\Debug\net5.0\Fibanacci_series.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp_Basic\Fibanacci_series\obj\Debug\net5.0\Fibanacci_series.AssemblyInfoInputs.cache
+D:\Csharp_Basic\Fibanacci_series\obj\Debug\net5.0\Fibanacci_series.AssemblyInfo.cs
+D:\Csharp_Basic\Fibanacci_series\obj\Debug\net5.0\Fibanacci_series.csproj.CoreCompileInputs.cache
+D:\Csharp_Basic\Fibanacci_series\obj\Debug\net5.0\Fibanacci_series.dll
+D:\Csharp_Basic\Fibanacci_series\obj\Debug\net5.0\ref\Fibanacci_series.dll
+D:\Csharp_Basic\Fibanacci_series\obj\Debug\net5.0\Fibanacci_series.pdb
+D:\Csharp_Basic\Fibanacci_series\obj\Debug\net5.0\Fibanacci_series.genruntimeconfig.cache
