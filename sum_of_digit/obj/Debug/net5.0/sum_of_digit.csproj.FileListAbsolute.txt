@@ -1,0 +1,16 @@
+D:\Csharp_Basic\sum_of_digit\obj\Debug\net5.0\sum_of_digit.csprojAssemblyReference.cache
+D:\Csharp_Basic\sum_of_digit\obj\Debug\net5.0\sum_of_digit.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp_Basic\sum_of_digit\obj\Debug\net5.0\sum_of_digit.AssemblyInfoInputs.cache
+D:\Csharp_Basic\sum_of_digit\obj\Debug\net5.0\sum_of_digit.AssemblyInfo.cs
+D:\Csharp_Basic\sum_of_digit\obj\Debug\net5.0\sum_of_digit.csproj.CoreCompileInputs.cache
+D:\Csharp_Basic\sum_of_digit\bin\Debug\net5.0\sum_of_digit.exe
+D:\Csharp_Basic\sum_of_digit\bin\Debug\net5.0\sum_of_digit.deps.json
+D:\Csharp_Basic\sum_of_digit\bin\Debug\net5.0\sum_of_digit.runtimeconfig.json
+D:\Csharp_Basic\sum_of_digit\bin\Debug\net5.0\sum_of_digit.runtimeconfig.dev.json
+D:\Csharp_Basic\sum_of_digit\bin\Debug\net5.0\sum_of_digit.dll
+D:\Csharp_Basic\sum_of_digit\bin\Debug\net5.0\ref\sum_of_digit.dll
+D:\Csharp_Basic\sum_of_digit\bin\Debug\net5.0\sum_of_digit.pdb
+D:\Csharp_Basic\sum_of_digit\obj\Debug\net5.0\sum_of_digit.dll
+D:\Csharp_Basic\sum_of_digit\obj\Debug\net5.0\ref\sum_of_digit.dll
+D:\Csharp_Basic\sum_of_digit\obj\Debug\net5.0\sum_of_digit.pdb
+D:\Csharp_Basic\sum_of_digit\obj\Debug\net5.0\sum_of_digit.genruntimeconfig.cache
