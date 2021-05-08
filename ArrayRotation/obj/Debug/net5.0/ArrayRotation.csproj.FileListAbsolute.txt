@@ -1,0 +1,16 @@
+D:\Csharp_Basic\ArrayRotation\bin\Debug\net5.0\ArrayRotation.exe
+D:\Csharp_Basic\ArrayRotation\bin\Debug\net5.0\ArrayRotation.deps.json
+D:\Csharp_Basic\ArrayRotation\bin\Debug\net5.0\ArrayRotation.runtimeconfig.json
+D:\Csharp_Basic\ArrayRotation\bin\Debug\net5.0\ArrayRotation.runtimeconfig.dev.json
+D:\Csharp_Basic\ArrayRotation\bin\Debug\net5.0\ArrayRotation.dll
+D:\Csharp_Basic\ArrayRotation\bin\Debug\net5.0\ref\ArrayRotation.dll
+D:\Csharp_Basic\ArrayRotation\bin\Debug\net5.0\ArrayRotation.pdb
+D:\Csharp_Basic\ArrayRotation\obj\Debug\net5.0\ArrayRotation.csprojAssemblyReference.cache
+D:\Csharp_Basic\ArrayRotation\obj\Debug\net5.0\ArrayRotation.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp_Basic\ArrayRotation\obj\Debug\net5.0\ArrayRotation.AssemblyInfoInputs.cache
+D:\Csharp_Basic\ArrayRotation\obj\Debug\net5.0\ArrayRotation.AssemblyInfo.cs
+D:\Csharp_Basic\ArrayRotation\obj\Debug\net5.0\ArrayRotation.csproj.CoreCompileInputs.cache
+D:\Csharp_Basic\ArrayRotation\obj\Debug\net5.0\ArrayRotation.dll
+D:\Csharp_Basic\ArrayRotation\obj\Debug\net5.0\ref\ArrayRotation.dll
+D:\Csharp_Basic\ArrayRotation\obj\Debug\net5.0\ArrayRotation.pdb
+D:\Csharp_Basic\ArrayRotation\obj\Debug\net5.0\ArrayRotation.genruntimeconfig.cache
