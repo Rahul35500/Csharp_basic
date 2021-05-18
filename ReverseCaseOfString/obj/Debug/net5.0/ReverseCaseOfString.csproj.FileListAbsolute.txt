@@ -1,0 +1,16 @@
+D:\Csharp_Basic\ReverseCaseOfString\bin\Debug\net5.0\ReverseCaseOfString.exe
+D:\Csharp_Basic\ReverseCaseOfString\bin\Debug\net5.0\ReverseCaseOfString.deps.json
+D:\Csharp_Basic\ReverseCaseOfString\bin\Debug\net5.0\ReverseCaseOfString.runtimeconfig.json
+D:\Csharp_Basic\ReverseCaseOfString\bin\Debug\net5.0\ReverseCaseOfString.runtimeconfig.dev.json
+D:\Csharp_Basic\ReverseCaseOfString\bin\Debug\net5.0\ReverseCaseOfString.dll
+D:\Csharp_Basic\ReverseCaseOfString\bin\Debug\net5.0\ref\ReverseCaseOfString.dll
+D:\Csharp_Basic\ReverseCaseOfString\bin\Debug\net5.0\ReverseCaseOfString.pdb
+D:\Csharp_Basic\ReverseCaseOfString\obj\Debug\net5.0\ReverseCaseOfString.csprojAssemblyReference.cache
+D:\Csharp_Basic\ReverseCaseOfString\obj\Debug\net5.0\ReverseCaseOfString.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp_Basic\ReverseCaseOfString\obj\Debug\net5.0\ReverseCaseOfString.AssemblyInfoInputs.cache
+D:\Csharp_Basic\ReverseCaseOfString\obj\Debug\net5.0\ReverseCaseOfString.AssemblyInfo.cs
+D:\Csharp_Basic\ReverseCaseOfString\obj\Debug\net5.0\ReverseCaseOfString.csproj.CoreCompileInputs.cache
+D:\Csharp_Basic\ReverseCaseOfString\obj\Debug\net5.0\ReverseCaseOfString.dll
+D:\Csharp_Basic\ReverseCaseOfString\obj\Debug\net5.0\ref\ReverseCaseOfString.dll
+D:\Csharp_Basic\ReverseCaseOfString\obj\Debug\net5.0\ReverseCaseOfString.pdb
+D:\Csharp_Basic\ReverseCaseOfString\obj\Debug\net5.0\ReverseCaseOfString.genruntimeconfig.cache
