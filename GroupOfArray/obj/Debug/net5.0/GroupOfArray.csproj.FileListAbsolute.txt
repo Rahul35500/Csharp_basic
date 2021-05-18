@@ -1,0 +1,16 @@
+D:\Csharp_Basic\GroupOfArray\bin\Debug\net5.0\GroupOfArray.exe
+D:\Csharp_Basic\GroupOfArray\bin\Debug\net5.0\GroupOfArray.deps.json
+D:\Csharp_Basic\GroupOfArray\bin\Debug\net5.0\GroupOfArray.runtimeconfig.json
+D:\Csharp_Basic\GroupOfArray\bin\Debug\net5.0\GroupOfArray.runtimeconfig.dev.json
+D:\Csharp_Basic\GroupOfArray\bin\Debug\net5.0\GroupOfArray.dll
+D:\Csharp_Basic\GroupOfArray\bin\Debug\net5.0\ref\GroupOfArray.dll
+D:\Csharp_Basic\GroupOfArray\bin\Debug\net5.0\GroupOfArray.pdb
+D:\Csharp_Basic\GroupOfArray\obj\Debug\net5.0\GroupOfArray.csprojAssemblyReference.cache
+D:\Csharp_Basic\GroupOfArray\obj\Debug\net5.0\GroupOfArray.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp_Basic\GroupOfArray\obj\Debug\net5.0\GroupOfArray.AssemblyInfoInputs.cache
+D:\Csharp_Basic\GroupOfArray\obj\Debug\net5.0\GroupOfArray.AssemblyInfo.cs
+D:\Csharp_Basic\GroupOfArray\obj\Debug\net5.0\GroupOfArray.csproj.CoreCompileInputs.cache
+D:\Csharp_Basic\GroupOfArray\obj\Debug\net5.0\GroupOfArray.dll
+D:\Csharp_Basic\GroupOfArray\obj\Debug\net5.0\ref\GroupOfArray.dll
+D:\Csharp_Basic\GroupOfArray\obj\Debug\net5.0\GroupOfArray.pdb
+D:\Csharp_Basic\GroupOfArray\obj\Debug\net5.0\GroupOfArray.genruntimeconfig.cache
