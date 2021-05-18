@@ -1,0 +1,16 @@
+D:\Csharp_Basic\ArrayReturnFunction\obj\Debug\net5.0\ArrayReturnFunction.csprojAssemblyReference.cache
+D:\Csharp_Basic\ArrayReturnFunction\obj\Debug\net5.0\ArrayReturnFunction.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp_Basic\ArrayReturnFunction\obj\Debug\net5.0\ArrayReturnFunction.AssemblyInfoInputs.cache
+D:\Csharp_Basic\ArrayReturnFunction\obj\Debug\net5.0\ArrayReturnFunction.AssemblyInfo.cs
+D:\Csharp_Basic\ArrayReturnFunction\obj\Debug\net5.0\ArrayReturnFunction.csproj.CoreCompileInputs.cache
+D:\Csharp_Basic\ArrayReturnFunction\bin\Debug\net5.0\ArrayReturnFunction.exe
+D:\Csharp_Basic\ArrayReturnFunction\bin\Debug\net5.0\ArrayReturnFunction.deps.json
+D:\Csharp_Basic\ArrayReturnFunction\bin\Debug\net5.0\ArrayReturnFunction.runtimeconfig.json
+D:\Csharp_Basic\ArrayReturnFunction\bin\Debug\net5.0\ArrayReturnFunction.runtimeconfig.dev.json
+D:\Csharp_Basic\ArrayReturnFunction\bin\Debug\net5.0\ArrayReturnFunction.dll
+D:\Csharp_Basic\ArrayReturnFunction\bin\Debug\net5.0\ref\ArrayReturnFunction.dll
+D:\Csharp_Basic\ArrayReturnFunction\bin\Debug\net5.0\ArrayReturnFunction.pdb
+D:\Csharp_Basic\ArrayReturnFunction\obj\Debug\net5.0\ArrayReturnFunction.dll
+D:\Csharp_Basic\ArrayReturnFunction\obj\Debug\net5.0\ref\ArrayReturnFunction.dll
+D:\Csharp_Basic\ArrayReturnFunction\obj\Debug\net5.0\ArrayReturnFunction.pdb
+D:\Csharp_Basic\ArrayReturnFunction\obj\Debug\net5.0\ArrayReturnFunction.genruntimeconfig.cache
