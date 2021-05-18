@@ -1,0 +1,16 @@
+D:\Csharp_Basic\ArrayOfMultiples\bin\Debug\net5.0\ArrayOfMultiples.exe
+D:\Csharp_Basic\ArrayOfMultiples\bin\Debug\net5.0\ArrayOfMultiples.deps.json
+D:\Csharp_Basic\ArrayOfMultiples\bin\Debug\net5.0\ArrayOfMultiples.runtimeconfig.json
+D:\Csharp_Basic\ArrayOfMultiples\bin\Debug\net5.0\ArrayOfMultiples.runtimeconfig.dev.json
+D:\Csharp_Basic\ArrayOfMultiples\bin\Debug\net5.0\ArrayOfMultiples.dll
+D:\Csharp_Basic\ArrayOfMultiples\bin\Debug\net5.0\ref\ArrayOfMultiples.dll
+D:\Csharp_Basic\ArrayOfMultiples\bin\Debug\net5.0\ArrayOfMultiples.pdb
+D:\Csharp_Basic\ArrayOfMultiples\obj\Debug\net5.0\ArrayOfMultiples.csprojAssemblyReference.cache
+D:\Csharp_Basic\ArrayOfMultiples\obj\Debug\net5.0\ArrayOfMultiples.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp_Basic\ArrayOfMultiples\obj\Debug\net5.0\ArrayOfMultiples.AssemblyInfoInputs.cache
+D:\Csharp_Basic\ArrayOfMultiples\obj\Debug\net5.0\ArrayOfMultiples.AssemblyInfo.cs
+D:\Csharp_Basic\ArrayOfMultiples\obj\Debug\net5.0\ArrayOfMultiples.csproj.CoreCompileInputs.cache
+D:\Csharp_Basic\ArrayOfMultiples\obj\Debug\net5.0\ArrayOfMultiples.dll
+D:\Csharp_Basic\ArrayOfMultiples\obj\Debug\net5.0\ref\ArrayOfMultiples.dll
+D:\Csharp_Basic\ArrayOfMultiples\obj\Debug\net5.0\ArrayOfMultiples.pdb
+D:\Csharp_Basic\ArrayOfMultiples\obj\Debug\net5.0\ArrayOfMultiples.genruntimeconfig.cache
