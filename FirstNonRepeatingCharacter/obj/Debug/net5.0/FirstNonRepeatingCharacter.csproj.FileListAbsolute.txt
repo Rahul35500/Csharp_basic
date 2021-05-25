@@ -1,0 +1,16 @@
+D:\Csharp_Basic\FirstNonRepeatingCharacter\obj\Debug\net5.0\FirstNonRepeatingCharacter.csprojAssemblyReference.cache
+D:\Csharp_Basic\FirstNonRepeatingCharacter\obj\Debug\net5.0\FirstNonRepeatingCharacter.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp_Basic\FirstNonRepeatingCharacter\obj\Debug\net5.0\FirstNonRepeatingCharacter.AssemblyInfoInputs.cache
+D:\Csharp_Basic\FirstNonRepeatingCharacter\obj\Debug\net5.0\FirstNonRepeatingCharacter.AssemblyInfo.cs
+D:\Csharp_Basic\FirstNonRepeatingCharacter\obj\Debug\net5.0\FirstNonRepeatingCharacter.csproj.CoreCompileInputs.cache
+D:\Csharp_Basic\FirstNonRepeatingCharacter\bin\Debug\net5.0\FirstNonRepeatingCharacter.exe
+D:\Csharp_Basic\FirstNonRepeatingCharacter\bin\Debug\net5.0\FirstNonRepeatingCharacter.deps.json
+D:\Csharp_Basic\FirstNonRepeatingCharacter\bin\Debug\net5.0\FirstNonRepeatingCharacter.runtimeconfig.json
+D:\Csharp_Basic\FirstNonRepeatingCharacter\bin\Debug\net5.0\FirstNonRepeatingCharacter.runtimeconfig.dev.json
+D:\Csharp_Basic\FirstNonRepeatingCharacter\bin\Debug\net5.0\FirstNonRepeatingCharacter.dll
+D:\Csharp_Basic\FirstNonRepeatingCharacter\bin\Debug\net5.0\ref\FirstNonRepeatingCharacter.dll
+D:\Csharp_Basic\FirstNonRepeatingCharacter\bin\Debug\net5.0\FirstNonRepeatingCharacter.pdb
+D:\Csharp_Basic\FirstNonRepeatingCharacter\obj\Debug\net5.0\FirstNonRepeatingCharacter.dll
+D:\Csharp_Basic\FirstNonRepeatingCharacter\obj\Debug\net5.0\ref\FirstNonRepeatingCharacter.dll
+D:\Csharp_Basic\FirstNonRepeatingCharacter\obj\Debug\net5.0\FirstNonRepeatingCharacter.pdb
+D:\Csharp_Basic\FirstNonRepeatingCharacter\obj\Debug\net5.0\FirstNonRepeatingCharacter.genruntimeconfig.cache
