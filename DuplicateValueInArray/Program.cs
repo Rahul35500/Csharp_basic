@@ -7,7 +7,7 @@ namespace DuplicateValueInArray
     {
         static void Main(string[] args)
         {
-            int[] array = { 10, 5, 10, 2, 2, 3, 4, 5, 5,5,5, 6, 7, 8, 9, 11, 12, 12 };
+            int[] array = { 10, 5, 10, 2, 2, 3, 4, 5, 5,5,5, 6, 7, 8, 9, 11, 12, 12,12,12,2,10,1,1,3};
             duplicate(array);
 
         }
@@ -33,11 +33,7 @@ namespace DuplicateValueInArray
             {
                 if(item.Value>0)
                 {
-                    System.Console.WriteLine($"Duplicate value  [{item.Key}] have occurred [{item.Value}] times");
-                }
-                else
-                {
-                    System.Console.WriteLine("No Duplicate value occurred");
+                    System.Console.WriteLine($"Duplicate value {item.Key} is occurred {item.Value} times");
                 }
             }
         }
