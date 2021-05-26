@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "DuplicateValueInArray/1.0.0": {
+        "runtime": {
+          "DuplicateValueInArray.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DuplicateValueInArray/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

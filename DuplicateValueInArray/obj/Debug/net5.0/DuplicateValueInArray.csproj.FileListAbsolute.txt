@@ -1,0 +1,16 @@
+D:\Csharp_Basic\DuplicateValueInArray\bin\Debug\net5.0\DuplicateValueInArray.exe
+D:\Csharp_Basic\DuplicateValueInArray\bin\Debug\net5.0\DuplicateValueInArray.deps.json
+D:\Csharp_Basic\DuplicateValueInArray\bin\Debug\net5.0\DuplicateValueInArray.runtimeconfig.json
+D:\Csharp_Basic\DuplicateValueInArray\bin\Debug\net5.0\DuplicateValueInArray.runtimeconfig.dev.json
+D:\Csharp_Basic\DuplicateValueInArray\bin\Debug\net5.0\DuplicateValueInArray.dll
+D:\Csharp_Basic\DuplicateValueInArray\bin\Debug\net5.0\ref\DuplicateValueInArray.dll
+D:\Csharp_Basic\DuplicateValueInArray\bin\Debug\net5.0\DuplicateValueInArray.pdb
+D:\Csharp_Basic\DuplicateValueInArray\obj\Debug\net5.0\DuplicateValueInArray.csprojAssemblyReference.cache
+D:\Csharp_Basic\DuplicateValueInArray\obj\Debug\net5.0\DuplicateValueInArray.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp_Basic\DuplicateValueInArray\obj\Debug\net5.0\DuplicateValueInArray.AssemblyInfoInputs.cache
+D:\Csharp_Basic\DuplicateValueInArray\obj\Debug\net5.0\DuplicateValueInArray.AssemblyInfo.cs
+D:\Csharp_Basic\DuplicateValueInArray\obj\Debug\net5.0\DuplicateValueInArray.csproj.CoreCompileInputs.cache
+D:\Csharp_Basic\DuplicateValueInArray\obj\Debug\net5.0\DuplicateValueInArray.dll
+D:\Csharp_Basic\DuplicateValueInArray\obj\Debug\net5.0\ref\DuplicateValueInArray.dll
+D:\Csharp_Basic\DuplicateValueInArray\obj\Debug\net5.0\DuplicateValueInArray.pdb
+D:\Csharp_Basic\DuplicateValueInArray\obj\Debug\net5.0\DuplicateValueInArray.genruntimeconfig.cache
