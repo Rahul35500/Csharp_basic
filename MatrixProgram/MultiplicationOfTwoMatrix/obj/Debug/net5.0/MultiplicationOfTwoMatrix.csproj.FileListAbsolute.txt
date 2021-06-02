@@ -1,0 +1,16 @@
+D:\MatrixProgram\MultiplicationOfTwoMatrix\bin\Debug\net5.0\MultiplicationOfTwoMatrix.exe
+D:\MatrixProgram\MultiplicationOfTwoMatrix\bin\Debug\net5.0\MultiplicationOfTwoMatrix.deps.json
+D:\MatrixProgram\MultiplicationOfTwoMatrix\bin\Debug\net5.0\MultiplicationOfTwoMatrix.runtimeconfig.json
+D:\MatrixProgram\MultiplicationOfTwoMatrix\bin\Debug\net5.0\MultiplicationOfTwoMatrix.runtimeconfig.dev.json
+D:\MatrixProgram\MultiplicationOfTwoMatrix\bin\Debug\net5.0\MultiplicationOfTwoMatrix.dll
+D:\MatrixProgram\MultiplicationOfTwoMatrix\bin\Debug\net5.0\ref\MultiplicationOfTwoMatrix.dll
+D:\MatrixProgram\MultiplicationOfTwoMatrix\bin\Debug\net5.0\MultiplicationOfTwoMatrix.pdb
+D:\MatrixProgram\MultiplicationOfTwoMatrix\obj\Debug\net5.0\MultiplicationOfTwoMatrix.csprojAssemblyReference.cache
+D:\MatrixProgram\MultiplicationOfTwoMatrix\obj\Debug\net5.0\MultiplicationOfTwoMatrix.GeneratedMSBuildEditorConfig.editorconfig
+D:\MatrixProgram\MultiplicationOfTwoMatrix\obj\Debug\net5.0\MultiplicationOfTwoMatrix.AssemblyInfoInputs.cache
+D:\MatrixProgram\MultiplicationOfTwoMatrix\obj\Debug\net5.0\MultiplicationOfTwoMatrix.AssemblyInfo.cs
+D:\MatrixProgram\MultiplicationOfTwoMatrix\obj\Debug\net5.0\MultiplicationOfTwoMatrix.csproj.CoreCompileInputs.cache
+D:\MatrixProgram\MultiplicationOfTwoMatrix\obj\Debug\net5.0\MultiplicationOfTwoMatrix.dll
+D:\MatrixProgram\MultiplicationOfTwoMatrix\obj\Debug\net5.0\ref\MultiplicationOfTwoMatrix.dll
+D:\MatrixProgram\MultiplicationOfTwoMatrix\obj\Debug\net5.0\MultiplicationOfTwoMatrix.pdb
+D:\MatrixProgram\MultiplicationOfTwoMatrix\obj\Debug\net5.0\MultiplicationOfTwoMatrix.genruntimeconfig.cache

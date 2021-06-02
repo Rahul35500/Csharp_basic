@@ -1,0 +1,16 @@
+D:\InheritanceProgram\typessecondProgram\bin\Debug\net5.0\TypesSecondProgram.exe
+D:\InheritanceProgram\typessecondProgram\bin\Debug\net5.0\TypesSecondProgram.deps.json
+D:\InheritanceProgram\typessecondProgram\bin\Debug\net5.0\TypesSecondProgram.runtimeconfig.json
+D:\InheritanceProgram\typessecondProgram\bin\Debug\net5.0\TypesSecondProgram.runtimeconfig.dev.json
+D:\InheritanceProgram\typessecondProgram\bin\Debug\net5.0\TypesSecondProgram.dll
+D:\InheritanceProgram\typessecondProgram\bin\Debug\net5.0\ref\TypesSecondProgram.dll
+D:\InheritanceProgram\typessecondProgram\bin\Debug\net5.0\TypesSecondProgram.pdb
+D:\InheritanceProgram\typessecondProgram\obj\Debug\net5.0\TypesSecondProgram.csprojAssemblyReference.cache
+D:\InheritanceProgram\typessecondProgram\obj\Debug\net5.0\TypesSecondProgram.GeneratedMSBuildEditorConfig.editorconfig
+D:\InheritanceProgram\typessecondProgram\obj\Debug\net5.0\TypesSecondProgram.AssemblyInfoInputs.cache
+D:\InheritanceProgram\typessecondProgram\obj\Debug\net5.0\TypesSecondProgram.AssemblyInfo.cs
+D:\InheritanceProgram\typessecondProgram\obj\Debug\net5.0\TypesSecondProgram.csproj.CoreCompileInputs.cache
+D:\InheritanceProgram\typessecondProgram\obj\Debug\net5.0\TypesSecondProgram.dll
+D:\InheritanceProgram\typessecondProgram\obj\Debug\net5.0\ref\TypesSecondProgram.dll
+D:\InheritanceProgram\typessecondProgram\obj\Debug\net5.0\TypesSecondProgram.pdb
+D:\InheritanceProgram\typessecondProgram\obj\Debug\net5.0\TypesSecondProgram.genruntimeconfig.cache

@@ -8,19 +8,24 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\rahul\\.nuget\\packages\\": {}
+    "C:\\Users\\rahul\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Csharp_Basic\\Prime_number\\Prime_number.csproj",
+      "projectUniqueName": "D:\\Csharp_Basic\\prime_number\\Prime_number.csproj",
       "projectName": "Prime_number",
-      "projectPath": "D:\\Csharp_Basic\\Prime_number\\Prime_number.csproj",
+      "projectPath": "D:\\Csharp_Basic\\prime_number\\Prime_number.csproj",
       "packagesPath": "C:\\Users\\rahul\\.nuget\\packages\\",
-      "outputPath": "D:\\Csharp_Basic\\Prime_number\\obj\\",
+      "outputPath": "D:\\Csharp_Basic\\prime_number\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
         "C:\\Users\\rahul\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -60,7 +65,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -1,0 +1,16 @@
+D:\RecursionProgram\secondProgram\bin\Debug\net5.0\SecondProgram.exe
+D:\RecursionProgram\secondProgram\bin\Debug\net5.0\SecondProgram.deps.json
+D:\RecursionProgram\secondProgram\bin\Debug\net5.0\SecondProgram.runtimeconfig.json
+D:\RecursionProgram\secondProgram\bin\Debug\net5.0\SecondProgram.runtimeconfig.dev.json
+D:\RecursionProgram\secondProgram\bin\Debug\net5.0\SecondProgram.dll
+D:\RecursionProgram\secondProgram\bin\Debug\net5.0\ref\SecondProgram.dll
+D:\RecursionProgram\secondProgram\bin\Debug\net5.0\SecondProgram.pdb
+D:\RecursionProgram\secondProgram\obj\Debug\net5.0\SecondProgram.csprojAssemblyReference.cache
+D:\RecursionProgram\secondProgram\obj\Debug\net5.0\SecondProgram.GeneratedMSBuildEditorConfig.editorconfig
+D:\RecursionProgram\secondProgram\obj\Debug\net5.0\SecondProgram.AssemblyInfoInputs.cache
+D:\RecursionProgram\secondProgram\obj\Debug\net5.0\SecondProgram.AssemblyInfo.cs
+D:\RecursionProgram\secondProgram\obj\Debug\net5.0\SecondProgram.csproj.CoreCompileInputs.cache
+D:\RecursionProgram\secondProgram\obj\Debug\net5.0\SecondProgram.dll
+D:\RecursionProgram\secondProgram\obj\Debug\net5.0\ref\SecondProgram.dll
+D:\RecursionProgram\secondProgram\obj\Debug\net5.0\SecondProgram.pdb
+D:\RecursionProgram\secondProgram\obj\Debug\net5.0\SecondProgram.genruntimeconfig.cache

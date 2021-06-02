@@ -18,11 +18,11 @@ namespace Armstrong
             }
             if (temp == sum)
             {
-                System.Console.WriteLine("number is palindrome");
+                System.Console.WriteLine("number is armstrog");
             }
             else
             {
-                System.Console.WriteLine("number is not palindrome");
+                System.Console.WriteLine("number is not armstrong");
             }
         }
     }

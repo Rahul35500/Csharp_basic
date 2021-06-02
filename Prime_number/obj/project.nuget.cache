@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1VfxB7cS1wIgUj1yZCGPq8/rsvkfl0bAx8vBe9nLuvYn8PbMPTX0rSJCYiF0Dot0AEXdxO7nFrue9dWugaORPA==",
+  "dgSpecHash": "2YR9x1J4Bf8b6vcdG22lWYWmxyGIZMVDRQ3rjPFGaUcZFiRqjoTRxrp/Z1DnCWKVaqcKkbwAgw6ZQqS/G/GuuQ==",
   "success": true,
-  "projectFilePath": "D:\\Csharp_Basic\\Prime_number\\Prime_number.csproj",
+  "projectFilePath": "D:\\Csharp_Basic\\prime_number\\Prime_number.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

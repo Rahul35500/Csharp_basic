@@ -1,0 +1,16 @@
+D:\MatrixProgram\FirstProgramOfTwoDimensionArray\bin\Debug\net5.0\FirstProgramOfTwoDimensionArray.exe
+D:\MatrixProgram\FirstProgramOfTwoDimensionArray\bin\Debug\net5.0\FirstProgramOfTwoDimensionArray.deps.json
+D:\MatrixProgram\FirstProgramOfTwoDimensionArray\bin\Debug\net5.0\FirstProgramOfTwoDimensionArray.runtimeconfig.json
+D:\MatrixProgram\FirstProgramOfTwoDimensionArray\bin\Debug\net5.0\FirstProgramOfTwoDimensionArray.runtimeconfig.dev.json
+D:\MatrixProgram\FirstProgramOfTwoDimensionArray\bin\Debug\net5.0\FirstProgramOfTwoDimensionArray.dll
+D:\MatrixProgram\FirstProgramOfTwoDimensionArray\bin\Debug\net5.0\ref\FirstProgramOfTwoDimensionArray.dll
+D:\MatrixProgram\FirstProgramOfTwoDimensionArray\bin\Debug\net5.0\FirstProgramOfTwoDimensionArray.pdb
+D:\MatrixProgram\FirstProgramOfTwoDimensionArray\obj\Debug\net5.0\FirstProgramOfTwoDimensionArray.csprojAssemblyReference.cache
+D:\MatrixProgram\FirstProgramOfTwoDimensionArray\obj\Debug\net5.0\FirstProgramOfTwoDimensionArray.GeneratedMSBuildEditorConfig.editorconfig
+D:\MatrixProgram\FirstProgramOfTwoDimensionArray\obj\Debug\net5.0\FirstProgramOfTwoDimensionArray.AssemblyInfoInputs.cache
+D:\MatrixProgram\FirstProgramOfTwoDimensionArray\obj\Debug\net5.0\FirstProgramOfTwoDimensionArray.AssemblyInfo.cs
+D:\MatrixProgram\FirstProgramOfTwoDimensionArray\obj\Debug\net5.0\FirstProgramOfTwoDimensionArray.csproj.CoreCompileInputs.cache
+D:\MatrixProgram\FirstProgramOfTwoDimensionArray\obj\Debug\net5.0\FirstProgramOfTwoDimensionArray.dll
+D:\MatrixProgram\FirstProgramOfTwoDimensionArray\obj\Debug\net5.0\ref\FirstProgramOfTwoDimensionArray.dll
+D:\MatrixProgram\FirstProgramOfTwoDimensionArray\obj\Debug\net5.0\FirstProgramOfTwoDimensionArray.pdb
+D:\MatrixProgram\FirstProgramOfTwoDimensionArray\obj\Debug\net5.0\FirstProgramOfTwoDimensionArray.genruntimeconfig.cache

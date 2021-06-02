@@ -7,6 +7,19 @@ namespace FirstNonRepeatingCharacter
     {
          static public int FirstIndexedValue = int.MaxValue;
         static public Dictionary<char, CountInfo> DictionaryInformation = new Dictionary<char, CountInfo>();
+         static public void FirstNonRepeating(string StringName)
+        {
+            GetCharacterFromDictionary(StringName);
+            for (int i = 0; i < StringName.Length; i++)
+            {
+                if (DictionaryInformation[StringName[i]].Count == 1 && FirstIndexedValue > DictionaryInformation[StringName[i]].indexed)
+                {
+                    FirstIndexedValue = DictionaryInformation[StringName[i]].indexed;
+                }
+            }
+
+            Display(StringName,FirstIndexedValue);
+        }
         static public void GetCharacterFromDictionary(string StringName)
         {
             for (int i = 0; i < StringName.Length; i++)
@@ -23,19 +36,7 @@ namespace FirstNonRepeatingCharacter
             }
 
         }
-        static public void FirstNonRepeating(string StringName)
-        {
-            GetCharacterFromDictionary(StringName);
-            for (int i = 0; i < StringName.Length; i++)
-            {
-                if (DictionaryInformation[StringName[i]].Count == 1 && FirstIndexedValue > DictionaryInformation[StringName[i]].indexed)
-                {
-                    FirstIndexedValue = DictionaryInformation[StringName[i]].indexed;
-                }
-            }
-
-            Display(StringName,FirstIndexedValue);
-        }
+       
         static public void Display(string StringName, int IndexedValue)
         {
             if (int.MaxValue == IndexedValue)

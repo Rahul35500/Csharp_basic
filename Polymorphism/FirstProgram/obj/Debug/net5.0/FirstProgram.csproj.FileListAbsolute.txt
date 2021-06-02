@@ -1,0 +1,16 @@
+D:\Polymorphism\firstprogram\bin\Debug\net5.0\FirstProgram.exe
+D:\Polymorphism\firstprogram\bin\Debug\net5.0\FirstProgram.deps.json
+D:\Polymorphism\firstprogram\bin\Debug\net5.0\FirstProgram.runtimeconfig.json
+D:\Polymorphism\firstprogram\bin\Debug\net5.0\FirstProgram.runtimeconfig.dev.json
+D:\Polymorphism\firstprogram\bin\Debug\net5.0\FirstProgram.dll
+D:\Polymorphism\firstprogram\bin\Debug\net5.0\ref\FirstProgram.dll
+D:\Polymorphism\firstprogram\bin\Debug\net5.0\FirstProgram.pdb
+D:\Polymorphism\firstprogram\obj\Debug\net5.0\FirstProgram.csprojAssemblyReference.cache
+D:\Polymorphism\firstprogram\obj\Debug\net5.0\FirstProgram.GeneratedMSBuildEditorConfig.editorconfig
+D:\Polymorphism\firstprogram\obj\Debug\net5.0\FirstProgram.AssemblyInfoInputs.cache
+D:\Polymorphism\firstprogram\obj\Debug\net5.0\FirstProgram.AssemblyInfo.cs
+D:\Polymorphism\firstprogram\obj\Debug\net5.0\FirstProgram.csproj.CoreCompileInputs.cache
+D:\Polymorphism\firstprogram\obj\Debug\net5.0\FirstProgram.dll
+D:\Polymorphism\firstprogram\obj\Debug\net5.0\ref\FirstProgram.dll
+D:\Polymorphism\firstprogram\obj\Debug\net5.0\FirstProgram.pdb
+D:\Polymorphism\firstprogram\obj\Debug\net5.0\FirstProgram.genruntimeconfig.cache

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Q1gisgGApT6ItonSJ2uwdlRuw66aWsEAoll+kB/O5XpMDgnrXPAqKzj3BL76pFiEEPDzMiIyE90OL9Zwkjyovw==",
+  "dgSpecHash": "7a3CG/+40i3hQPr8y//DvkUObPcjMsHUbZUwD0gEwt0iENY/lzHCwKyvBLGem5j/jlMtWSiDIzpbTrMBu4eJPw==",
   "success": true,
-  "projectFilePath": "D:\\Csharp_Basic\\FirstNonRepeatingCharacter\\FirstNonRepeatingCharacter.csproj",
+  "projectFilePath": "D:\\Csharp_Basic\\firstnonrepeatingcharacter\\FirstNonRepeatingCharacter.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

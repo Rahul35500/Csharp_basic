@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MumpTnWduTgnc5upiBSSnb95vY/McDisI7diqot+TijZWunqtABAei2LeCv4icjJV8bPjGrTkjD9xXI/vkDANw==",
+  "dgSpecHash": "CZgGIxhO2r9vL3BXFLD9psLagsCV/TaP2svaleBFKSw6UhLftng55OmBV1z83vIqq31YKDp8a+7zfdL0kaI+7g==",
   "success": true,
-  "projectFilePath": "D:\\Csharp_Basic\\GroupOfArray\\GroupOfArray.csproj",
+  "projectFilePath": "D:\\Csharp_Basic\\groupofarray\\GroupOfArray.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

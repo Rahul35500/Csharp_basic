@@ -1,0 +1,16 @@
+D:\StructAndClassPrograms\structures\ThirdProgram\bin\Debug\net5.0\ThirdProgram.exe
+D:\StructAndClassPrograms\structures\ThirdProgram\bin\Debug\net5.0\ThirdProgram.deps.json
+D:\StructAndClassPrograms\structures\ThirdProgram\bin\Debug\net5.0\ThirdProgram.runtimeconfig.json
+D:\StructAndClassPrograms\structures\ThirdProgram\bin\Debug\net5.0\ThirdProgram.runtimeconfig.dev.json
+D:\StructAndClassPrograms\structures\ThirdProgram\bin\Debug\net5.0\ThirdProgram.dll
+D:\StructAndClassPrograms\structures\ThirdProgram\bin\Debug\net5.0\ref\ThirdProgram.dll
+D:\StructAndClassPrograms\structures\ThirdProgram\bin\Debug\net5.0\ThirdProgram.pdb
+D:\StructAndClassPrograms\structures\ThirdProgram\obj\Debug\net5.0\ThirdProgram.csprojAssemblyReference.cache
+D:\StructAndClassPrograms\structures\ThirdProgram\obj\Debug\net5.0\ThirdProgram.GeneratedMSBuildEditorConfig.editorconfig
+D:\StructAndClassPrograms\structures\ThirdProgram\obj\Debug\net5.0\ThirdProgram.AssemblyInfoInputs.cache
+D:\StructAndClassPrograms\structures\ThirdProgram\obj\Debug\net5.0\ThirdProgram.AssemblyInfo.cs
+D:\StructAndClassPrograms\structures\ThirdProgram\obj\Debug\net5.0\ThirdProgram.csproj.CoreCompileInputs.cache
+D:\StructAndClassPrograms\structures\ThirdProgram\obj\Debug\net5.0\ThirdProgram.dll
+D:\StructAndClassPrograms\structures\ThirdProgram\obj\Debug\net5.0\ref\ThirdProgram.dll
+D:\StructAndClassPrograms\structures\ThirdProgram\obj\Debug\net5.0\ThirdProgram.pdb
+D:\StructAndClassPrograms\structures\ThirdProgram\obj\Debug\net5.0\ThirdProgram.genruntimeconfig.cache

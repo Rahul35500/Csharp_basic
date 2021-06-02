@@ -1,0 +1,16 @@
+D:\MatrixProgram\SubstractionOfTwoMatrix\bin\Debug\net5.0\SubstractionOfTwoMatrix.exe
+D:\MatrixProgram\SubstractionOfTwoMatrix\bin\Debug\net5.0\SubstractionOfTwoMatrix.deps.json
+D:\MatrixProgram\SubstractionOfTwoMatrix\bin\Debug\net5.0\SubstractionOfTwoMatrix.runtimeconfig.json
+D:\MatrixProgram\SubstractionOfTwoMatrix\bin\Debug\net5.0\SubstractionOfTwoMatrix.runtimeconfig.dev.json
+D:\MatrixProgram\SubstractionOfTwoMatrix\bin\Debug\net5.0\SubstractionOfTwoMatrix.dll
+D:\MatrixProgram\SubstractionOfTwoMatrix\bin\Debug\net5.0\ref\SubstractionOfTwoMatrix.dll
+D:\MatrixProgram\SubstractionOfTwoMatrix\bin\Debug\net5.0\SubstractionOfTwoMatrix.pdb
+D:\MatrixProgram\SubstractionOfTwoMatrix\obj\Debug\net5.0\SubstractionOfTwoMatrix.csprojAssemblyReference.cache
+D:\MatrixProgram\SubstractionOfTwoMatrix\obj\Debug\net5.0\SubstractionOfTwoMatrix.GeneratedMSBuildEditorConfig.editorconfig
+D:\MatrixProgram\SubstractionOfTwoMatrix\obj\Debug\net5.0\SubstractionOfTwoMatrix.AssemblyInfoInputs.cache
+D:\MatrixProgram\SubstractionOfTwoMatrix\obj\Debug\net5.0\SubstractionOfTwoMatrix.AssemblyInfo.cs
+D:\MatrixProgram\SubstractionOfTwoMatrix\obj\Debug\net5.0\SubstractionOfTwoMatrix.csproj.CoreCompileInputs.cache
+D:\MatrixProgram\SubstractionOfTwoMatrix\obj\Debug\net5.0\SubstractionOfTwoMatrix.dll
+D:\MatrixProgram\SubstractionOfTwoMatrix\obj\Debug\net5.0\ref\SubstractionOfTwoMatrix.dll
+D:\MatrixProgram\SubstractionOfTwoMatrix\obj\Debug\net5.0\SubstractionOfTwoMatrix.pdb
+D:\MatrixProgram\SubstractionOfTwoMatrix\obj\Debug\net5.0\SubstractionOfTwoMatrix.genruntimeconfig.cache

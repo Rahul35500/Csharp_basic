@@ -6,7 +6,7 @@ namespace Prime_number
     {
         public static void Main(string[] args)
         {
-            int number, flag = 0,n;
+            int number, flag = 0;
             Console.WriteLine("Enter the number to check prime or not ");
             number = int.Parse(Console.ReadLine());
             if (number % 2 != 0)

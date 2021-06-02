@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Csharp_Basic\\ConvertNumberToCorrespondingMonthName\\ConvertNumberToCorrespondingMonthName.csproj": {}
+    "D:\\Csharp_Basic\\convertnumbertocorrespondingmonthname\\ConvertNumberToCorrespondingMonthName.csproj": {}
   },
   "projects": {
-    "D:\\Csharp_Basic\\ConvertNumberToCorrespondingMonthName\\ConvertNumberToCorrespondingMonthName.csproj": {
+    "D:\\Csharp_Basic\\convertnumbertocorrespondingmonthname\\ConvertNumberToCorrespondingMonthName.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Csharp_Basic\\ConvertNumberToCorrespondingMonthName\\ConvertNumberToCorrespondingMonthName.csproj",
+        "projectUniqueName": "D:\\Csharp_Basic\\convertnumbertocorrespondingmonthname\\ConvertNumberToCorrespondingMonthName.csproj",
         "projectName": "ConvertNumberToCorrespondingMonthName",
-        "projectPath": "D:\\Csharp_Basic\\ConvertNumberToCorrespondingMonthName\\ConvertNumberToCorrespondingMonthName.csproj",
+        "projectPath": "D:\\Csharp_Basic\\convertnumbertocorrespondingmonthname\\ConvertNumberToCorrespondingMonthName.csproj",
         "packagesPath": "C:\\Users\\rahul\\.nuget\\packages\\",
-        "outputPath": "D:\\Csharp_Basic\\ConvertNumberToCorrespondingMonthName\\obj\\",
+        "outputPath": "D:\\Csharp_Basic\\convertnumbertocorrespondingmonthname\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
           "C:\\Users\\rahul\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -54,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     }

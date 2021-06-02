@@ -1,0 +1,6 @@
+namespace SecondProgram
+{
+    class Main
+    {
+    }
+}

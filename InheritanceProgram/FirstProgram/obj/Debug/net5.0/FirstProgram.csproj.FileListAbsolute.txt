@@ -1,0 +1,16 @@
+D:\InheritanceProgram\FirstProgram\bin\Debug\net5.0\FirstProgram.exe
+D:\InheritanceProgram\FirstProgram\bin\Debug\net5.0\FirstProgram.deps.json
+D:\InheritanceProgram\FirstProgram\bin\Debug\net5.0\FirstProgram.runtimeconfig.json
+D:\InheritanceProgram\FirstProgram\bin\Debug\net5.0\FirstProgram.runtimeconfig.dev.json
+D:\InheritanceProgram\FirstProgram\bin\Debug\net5.0\FirstProgram.dll
+D:\InheritanceProgram\FirstProgram\bin\Debug\net5.0\ref\FirstProgram.dll
+D:\InheritanceProgram\FirstProgram\bin\Debug\net5.0\FirstProgram.pdb
+D:\InheritanceProgram\FirstProgram\obj\Debug\net5.0\FirstProgram.csprojAssemblyReference.cache
+D:\InheritanceProgram\FirstProgram\obj\Debug\net5.0\FirstProgram.GeneratedMSBuildEditorConfig.editorconfig
+D:\InheritanceProgram\FirstProgram\obj\Debug\net5.0\FirstProgram.AssemblyInfoInputs.cache
+D:\InheritanceProgram\FirstProgram\obj\Debug\net5.0\FirstProgram.AssemblyInfo.cs
+D:\InheritanceProgram\FirstProgram\obj\Debug\net5.0\FirstProgram.csproj.CoreCompileInputs.cache
+D:\InheritanceProgram\FirstProgram\obj\Debug\net5.0\FirstProgram.dll
+D:\InheritanceProgram\FirstProgram\obj\Debug\net5.0\ref\FirstProgram.dll
+D:\InheritanceProgram\FirstProgram\obj\Debug\net5.0\FirstProgram.pdb
+D:\InheritanceProgram\FirstProgram\obj\Debug\net5.0\FirstProgram.genruntimeconfig.cache

@@ -9,8 +9,7 @@ namespace ConvertNumberToCorrespondingMonthName
             System.Console.WriteLine("Enter the number between one and thirteen");
             int number;
             int.TryParse(Console.ReadLine(),out number);
-            System.Console.Write($"{number} number in month = ");
-            System.Console.WriteLine(Getname(number));
+            System.Console.Write($"{number} number in month = {Getname(number)}");
 
 
         }

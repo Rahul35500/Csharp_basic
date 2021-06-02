@@ -1,0 +1,16 @@
+D:\StructAndClassPrograms\structures\SecondProgram\bin\Debug\net5.0\SecondProgram.exe
+D:\StructAndClassPrograms\structures\SecondProgram\bin\Debug\net5.0\SecondProgram.deps.json
+D:\StructAndClassPrograms\structures\SecondProgram\bin\Debug\net5.0\SecondProgram.runtimeconfig.json
+D:\StructAndClassPrograms\structures\SecondProgram\bin\Debug\net5.0\SecondProgram.runtimeconfig.dev.json
+D:\StructAndClassPrograms\structures\SecondProgram\bin\Debug\net5.0\SecondProgram.dll
+D:\StructAndClassPrograms\structures\SecondProgram\bin\Debug\net5.0\ref\SecondProgram.dll
+D:\StructAndClassPrograms\structures\SecondProgram\bin\Debug\net5.0\SecondProgram.pdb
+D:\StructAndClassPrograms\structures\SecondProgram\obj\Debug\net5.0\SecondProgram.csprojAssemblyReference.cache
+D:\StructAndClassPrograms\structures\SecondProgram\obj\Debug\net5.0\SecondProgram.GeneratedMSBuildEditorConfig.editorconfig
+D:\StructAndClassPrograms\structures\SecondProgram\obj\Debug\net5.0\SecondProgram.AssemblyInfoInputs.cache
+D:\StructAndClassPrograms\structures\SecondProgram\obj\Debug\net5.0\SecondProgram.AssemblyInfo.cs
+D:\StructAndClassPrograms\structures\SecondProgram\obj\Debug\net5.0\SecondProgram.csproj.CoreCompileInputs.cache
+D:\StructAndClassPrograms\structures\SecondProgram\obj\Debug\net5.0\SecondProgram.dll
+D:\StructAndClassPrograms\structures\SecondProgram\obj\Debug\net5.0\ref\SecondProgram.dll
+D:\StructAndClassPrograms\structures\SecondProgram\obj\Debug\net5.0\SecondProgram.pdb
+D:\StructAndClassPrograms\structures\SecondProgram\obj\Debug\net5.0\SecondProgram.genruntimeconfig.cache

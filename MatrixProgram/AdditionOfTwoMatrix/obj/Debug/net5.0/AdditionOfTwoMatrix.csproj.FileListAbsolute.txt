@@ -1,0 +1,16 @@
+D:\MatrixProgram\additionOftwomatrix\obj\Debug\net5.0\AdditionOfTwoMatrix.csprojAssemblyReference.cache
+D:\MatrixProgram\additionOftwomatrix\obj\Debug\net5.0\AdditionOfTwoMatrix.GeneratedMSBuildEditorConfig.editorconfig
+D:\MatrixProgram\additionOftwomatrix\obj\Debug\net5.0\AdditionOfTwoMatrix.AssemblyInfoInputs.cache
+D:\MatrixProgram\additionOftwomatrix\obj\Debug\net5.0\AdditionOfTwoMatrix.AssemblyInfo.cs
+D:\MatrixProgram\additionOftwomatrix\obj\Debug\net5.0\AdditionOfTwoMatrix.csproj.CoreCompileInputs.cache
+D:\MatrixProgram\additionOftwomatrix\bin\Debug\net5.0\AdditionOfTwoMatrix.exe
+D:\MatrixProgram\additionOftwomatrix\bin\Debug\net5.0\AdditionOfTwoMatrix.deps.json
+D:\MatrixProgram\additionOftwomatrix\bin\Debug\net5.0\AdditionOfTwoMatrix.runtimeconfig.json
+D:\MatrixProgram\additionOftwomatrix\bin\Debug\net5.0\AdditionOfTwoMatrix.runtimeconfig.dev.json
+D:\MatrixProgram\additionOftwomatrix\bin\Debug\net5.0\AdditionOfTwoMatrix.dll
+D:\MatrixProgram\additionOftwomatrix\bin\Debug\net5.0\ref\AdditionOfTwoMatrix.dll
+D:\MatrixProgram\additionOftwomatrix\bin\Debug\net5.0\AdditionOfTwoMatrix.pdb
+D:\MatrixProgram\additionOftwomatrix\obj\Debug\net5.0\AdditionOfTwoMatrix.dll
+D:\MatrixProgram\additionOftwomatrix\obj\Debug\net5.0\ref\AdditionOfTwoMatrix.dll
+D:\MatrixProgram\additionOftwomatrix\obj\Debug\net5.0\AdditionOfTwoMatrix.pdb
+D:\MatrixProgram\additionOftwomatrix\obj\Debug\net5.0\AdditionOfTwoMatrix.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\ArrayInCsharp\InArrayFindingMethod\InArrayIndexOfMethods\bin\Debug\net5.0\InArrayIndexOfMethods.exe
+D:\ArrayInCsharp\InArrayFindingMethod\InArrayIndexOfMethods\bin\Debug\net5.0\InArrayIndexOfMethods.deps.json
+D:\ArrayInCsharp\InArrayFindingMethod\InArrayIndexOfMethods\bin\Debug\net5.0\InArrayIndexOfMethods.runtimeconfig.json
+D:\ArrayInCsharp\InArrayFindingMethod\InArrayIndexOfMethods\bin\Debug\net5.0\InArrayIndexOfMethods.runtimeconfig.dev.json
+D:\ArrayInCsharp\InArrayFindingMethod\InArrayIndexOfMethods\bin\Debug\net5.0\InArrayIndexOfMethods.dll
+D:\ArrayInCsharp\InArrayFindingMethod\InArrayIndexOfMethods\bin\Debug\net5.0\ref\InArrayIndexOfMethods.dll
+D:\ArrayInCsharp\InArrayFindingMethod\InArrayIndexOfMethods\bin\Debug\net5.0\InArrayIndexOfMethods.pdb
+D:\ArrayInCsharp\InArrayFindingMethod\InArrayIndexOfMethods\obj\Debug\net5.0\InArrayIndexOfMethods.csprojAssemblyReference.cache
+D:\ArrayInCsharp\InArrayFindingMethod\InArrayIndexOfMethods\obj\Debug\net5.0\InArrayIndexOfMethods.GeneratedMSBuildEditorConfig.editorconfig
+D:\ArrayInCsharp\InArrayFindingMethod\InArrayIndexOfMethods\obj\Debug\net5.0\InArrayIndexOfMethods.AssemblyInfoInputs.cache
+D:\ArrayInCsharp\InArrayFindingMethod\InArrayIndexOfMethods\obj\Debug\net5.0\InArrayIndexOfMethods.AssemblyInfo.cs
+D:\ArrayInCsharp\InArrayFindingMethod\InArrayIndexOfMethods\obj\Debug\net5.0\InArrayIndexOfMethods.csproj.CoreCompileInputs.cache
+D:\ArrayInCsharp\InArrayFindingMethod\InArrayIndexOfMethods\obj\Debug\net5.0\InArrayIndexOfMethods.dll
+D:\ArrayInCsharp\InArrayFindingMethod\InArrayIndexOfMethods\obj\Debug\net5.0\ref\InArrayIndexOfMethods.dll
+D:\ArrayInCsharp\InArrayFindingMethod\InArrayIndexOfMethods\obj\Debug\net5.0\InArrayIndexOfMethods.pdb
+D:\ArrayInCsharp\InArrayFindingMethod\InArrayIndexOfMethods\obj\Debug\net5.0\InArrayIndexOfMethods.genruntimeconfig.cache

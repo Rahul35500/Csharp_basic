@@ -1,0 +1,16 @@
+D:\RecursionProgram\FirstProgram\bin\Debug\net5.0\FirstProgram.exe
+D:\RecursionProgram\FirstProgram\bin\Debug\net5.0\FirstProgram.deps.json
+D:\RecursionProgram\FirstProgram\bin\Debug\net5.0\FirstProgram.runtimeconfig.json
+D:\RecursionProgram\FirstProgram\bin\Debug\net5.0\FirstProgram.runtimeconfig.dev.json
+D:\RecursionProgram\FirstProgram\bin\Debug\net5.0\FirstProgram.dll
+D:\RecursionProgram\FirstProgram\bin\Debug\net5.0\ref\FirstProgram.dll
+D:\RecursionProgram\FirstProgram\bin\Debug\net5.0\FirstProgram.pdb
+D:\RecursionProgram\FirstProgram\obj\Debug\net5.0\FirstProgram.csprojAssemblyReference.cache
+D:\RecursionProgram\FirstProgram\obj\Debug\net5.0\FirstProgram.GeneratedMSBuildEditorConfig.editorconfig
+D:\RecursionProgram\FirstProgram\obj\Debug\net5.0\FirstProgram.AssemblyInfoInputs.cache
+D:\RecursionProgram\FirstProgram\obj\Debug\net5.0\FirstProgram.AssemblyInfo.cs
+D:\RecursionProgram\FirstProgram\obj\Debug\net5.0\FirstProgram.csproj.CoreCompileInputs.cache
+D:\RecursionProgram\FirstProgram\obj\Debug\net5.0\FirstProgram.dll
+D:\RecursionProgram\FirstProgram\obj\Debug\net5.0\ref\FirstProgram.dll
+D:\RecursionProgram\FirstProgram\obj\Debug\net5.0\FirstProgram.pdb
+D:\RecursionProgram\FirstProgram\obj\Debug\net5.0\FirstProgram.genruntimeconfig.cache

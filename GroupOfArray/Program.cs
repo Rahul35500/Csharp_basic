@@ -20,7 +20,8 @@ namespace GroupOfArray
         }
         static int[] findSituation(int[][] arr)
         {
-            var largest = new int[3];
+            // int length=arr.Length;
+            var largest = new int[arr.Length];
             int value = 0;
             for (int i = 0; i < arr.Length; i++)
             {

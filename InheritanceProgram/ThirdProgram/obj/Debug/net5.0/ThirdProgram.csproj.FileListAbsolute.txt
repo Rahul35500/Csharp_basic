@@ -1,0 +1,16 @@
+D:\InheritanceProgram\ThirdProgram\bin\Debug\net5.0\ThirdProgram.exe
+D:\InheritanceProgram\ThirdProgram\bin\Debug\net5.0\ThirdProgram.deps.json
+D:\InheritanceProgram\ThirdProgram\bin\Debug\net5.0\ThirdProgram.runtimeconfig.json
+D:\InheritanceProgram\ThirdProgram\bin\Debug\net5.0\ThirdProgram.runtimeconfig.dev.json
+D:\InheritanceProgram\ThirdProgram\bin\Debug\net5.0\ThirdProgram.dll
+D:\InheritanceProgram\ThirdProgram\bin\Debug\net5.0\ref\ThirdProgram.dll
+D:\InheritanceProgram\ThirdProgram\bin\Debug\net5.0\ThirdProgram.pdb
+D:\InheritanceProgram\ThirdProgram\obj\Debug\net5.0\ThirdProgram.csprojAssemblyReference.cache
+D:\InheritanceProgram\ThirdProgram\obj\Debug\net5.0\ThirdProgram.GeneratedMSBuildEditorConfig.editorconfig
+D:\InheritanceProgram\ThirdProgram\obj\Debug\net5.0\ThirdProgram.AssemblyInfoInputs.cache
+D:\InheritanceProgram\ThirdProgram\obj\Debug\net5.0\ThirdProgram.AssemblyInfo.cs
+D:\InheritanceProgram\ThirdProgram\obj\Debug\net5.0\ThirdProgram.csproj.CoreCompileInputs.cache
+D:\InheritanceProgram\ThirdProgram\obj\Debug\net5.0\ThirdProgram.dll
+D:\InheritanceProgram\ThirdProgram\obj\Debug\net5.0\ref\ThirdProgram.dll
+D:\InheritanceProgram\ThirdProgram\obj\Debug\net5.0\ThirdProgram.pdb
+D:\InheritanceProgram\ThirdProgram\obj\Debug\net5.0\ThirdProgram.genruntimeconfig.cache

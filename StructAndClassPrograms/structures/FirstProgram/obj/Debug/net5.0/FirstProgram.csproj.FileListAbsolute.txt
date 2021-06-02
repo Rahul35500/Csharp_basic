@@ -1,0 +1,16 @@
+D:\StructAndClassPrograms\structures\FirstProgram\bin\Debug\net5.0\FirstProgram.exe
+D:\StructAndClassPrograms\structures\FirstProgram\bin\Debug\net5.0\FirstProgram.deps.json
+D:\StructAndClassPrograms\structures\FirstProgram\bin\Debug\net5.0\FirstProgram.runtimeconfig.json
+D:\StructAndClassPrograms\structures\FirstProgram\bin\Debug\net5.0\FirstProgram.runtimeconfig.dev.json
+D:\StructAndClassPrograms\structures\FirstProgram\bin\Debug\net5.0\FirstProgram.dll
+D:\StructAndClassPrograms\structures\FirstProgram\bin\Debug\net5.0\ref\FirstProgram.dll
+D:\StructAndClassPrograms\structures\FirstProgram\bin\Debug\net5.0\FirstProgram.pdb
+D:\StructAndClassPrograms\structures\FirstProgram\obj\Debug\net5.0\FirstProgram.csprojAssemblyReference.cache
+D:\StructAndClassPrograms\structures\FirstProgram\obj\Debug\net5.0\FirstProgram.GeneratedMSBuildEditorConfig.editorconfig
+D:\StructAndClassPrograms\structures\FirstProgram\obj\Debug\net5.0\FirstProgram.AssemblyInfoInputs.cache
+D:\StructAndClassPrograms\structures\FirstProgram\obj\Debug\net5.0\FirstProgram.AssemblyInfo.cs
+D:\StructAndClassPrograms\structures\FirstProgram\obj\Debug\net5.0\FirstProgram.csproj.CoreCompileInputs.cache
+D:\StructAndClassPrograms\structures\FirstProgram\obj\Debug\net5.0\FirstProgram.dll
+D:\StructAndClassPrograms\structures\FirstProgram\obj\Debug\net5.0\ref\FirstProgram.dll
+D:\StructAndClassPrograms\structures\FirstProgram\obj\Debug\net5.0\FirstProgram.pdb
+D:\StructAndClassPrograms\structures\FirstProgram\obj\Debug\net5.0\FirstProgram.genruntimeconfig.cache

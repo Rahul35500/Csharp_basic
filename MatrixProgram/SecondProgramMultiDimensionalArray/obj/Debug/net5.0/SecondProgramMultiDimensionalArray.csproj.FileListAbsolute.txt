@@ -1,0 +1,16 @@
+D:\MatrixProgram\SecondProgramMultiDimensionalArray\bin\Debug\net5.0\SecondProgramMultiDimensionalArray.exe
+D:\MatrixProgram\SecondProgramMultiDimensionalArray\bin\Debug\net5.0\SecondProgramMultiDimensionalArray.deps.json
+D:\MatrixProgram\SecondProgramMultiDimensionalArray\bin\Debug\net5.0\SecondProgramMultiDimensionalArray.runtimeconfig.json
+D:\MatrixProgram\SecondProgramMultiDimensionalArray\bin\Debug\net5.0\SecondProgramMultiDimensionalArray.runtimeconfig.dev.json
+D:\MatrixProgram\SecondProgramMultiDimensionalArray\bin\Debug\net5.0\SecondProgramMultiDimensionalArray.dll
+D:\MatrixProgram\SecondProgramMultiDimensionalArray\bin\Debug\net5.0\ref\SecondProgramMultiDimensionalArray.dll
+D:\MatrixProgram\SecondProgramMultiDimensionalArray\bin\Debug\net5.0\SecondProgramMultiDimensionalArray.pdb
+D:\MatrixProgram\SecondProgramMultiDimensionalArray\obj\Debug\net5.0\SecondProgramMultiDimensionalArray.csprojAssemblyReference.cache
+D:\MatrixProgram\SecondProgramMultiDimensionalArray\obj\Debug\net5.0\SecondProgramMultiDimensionalArray.GeneratedMSBuildEditorConfig.editorconfig
+D:\MatrixProgram\SecondProgramMultiDimensionalArray\obj\Debug\net5.0\SecondProgramMultiDimensionalArray.AssemblyInfoInputs.cache
+D:\MatrixProgram\SecondProgramMultiDimensionalArray\obj\Debug\net5.0\SecondProgramMultiDimensionalArray.AssemblyInfo.cs
+D:\MatrixProgram\SecondProgramMultiDimensionalArray\obj\Debug\net5.0\SecondProgramMultiDimensionalArray.csproj.CoreCompileInputs.cache
+D:\MatrixProgram\SecondProgramMultiDimensionalArray\obj\Debug\net5.0\SecondProgramMultiDimensionalArray.dll
+D:\MatrixProgram\SecondProgramMultiDimensionalArray\obj\Debug\net5.0\ref\SecondProgramMultiDimensionalArray.dll
+D:\MatrixProgram\SecondProgramMultiDimensionalArray\obj\Debug\net5.0\SecondProgramMultiDimensionalArray.pdb
+D:\MatrixProgram\SecondProgramMultiDimensionalArray\obj\Debug\net5.0\SecondProgramMultiDimensionalArray.genruntimeconfig.cache
