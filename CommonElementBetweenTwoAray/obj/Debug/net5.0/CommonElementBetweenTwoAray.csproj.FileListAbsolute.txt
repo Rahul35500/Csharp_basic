@@ -1,0 +1,16 @@
+D:\CommonElementBetweenTwoAray\bin\Debug\net5.0\CommonElementBetweenTwoAray.exe
+D:\CommonElementBetweenTwoAray\bin\Debug\net5.0\CommonElementBetweenTwoAray.deps.json
+D:\CommonElementBetweenTwoAray\bin\Debug\net5.0\CommonElementBetweenTwoAray.runtimeconfig.json
+D:\CommonElementBetweenTwoAray\bin\Debug\net5.0\CommonElementBetweenTwoAray.runtimeconfig.dev.json
+D:\CommonElementBetweenTwoAray\bin\Debug\net5.0\CommonElementBetweenTwoAray.dll
+D:\CommonElementBetweenTwoAray\bin\Debug\net5.0\ref\CommonElementBetweenTwoAray.dll
+D:\CommonElementBetweenTwoAray\bin\Debug\net5.0\CommonElementBetweenTwoAray.pdb
+D:\CommonElementBetweenTwoAray\obj\Debug\net5.0\CommonElementBetweenTwoAray.csproj.AssemblyReference.cache
+D:\CommonElementBetweenTwoAray\obj\Debug\net5.0\CommonElementBetweenTwoAray.GeneratedMSBuildEditorConfig.editorconfig
+D:\CommonElementBetweenTwoAray\obj\Debug\net5.0\CommonElementBetweenTwoAray.AssemblyInfoInputs.cache
+D:\CommonElementBetweenTwoAray\obj\Debug\net5.0\CommonElementBetweenTwoAray.AssemblyInfo.cs
+D:\CommonElementBetweenTwoAray\obj\Debug\net5.0\CommonElementBetweenTwoAray.csproj.CoreCompileInputs.cache
+D:\CommonElementBetweenTwoAray\obj\Debug\net5.0\CommonElementBetweenTwoAray.dll
+D:\CommonElementBetweenTwoAray\obj\Debug\net5.0\ref\CommonElementBetweenTwoAray.dll
+D:\CommonElementBetweenTwoAray\obj\Debug\net5.0\CommonElementBetweenTwoAray.pdb
+D:\CommonElementBetweenTwoAray\obj\Debug\net5.0\CommonElementBetweenTwoAray.genruntimeconfig.cache
