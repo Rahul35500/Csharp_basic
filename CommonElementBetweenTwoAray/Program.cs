@@ -7,7 +7,7 @@ namespace CommonElementBetweenTwoAray
     {
         static void Main(string[] args)
         {
-            var firstArray = new string[] { "Article", "for", "Geeks", "for", "Geeks" };
+            var firstArray = new string[] { "Article", "for", "Geeks", "Geeks","for" };
             var secondArray = new string[] { "Article", "Geeks", "Geeks", "for" };
             Dictionary<string, int> DictinaryName = new Dictionary<string, int>();
             string[] sample = new string[firstArray.Length];
