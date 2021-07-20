@@ -1,0 +1,16 @@
+D:\ConsecutiveDuplicateElementFromArray\bin\Debug\net5.0\ConsecutiveDuplicateElementFromArray.exe
+D:\ConsecutiveDuplicateElementFromArray\bin\Debug\net5.0\ConsecutiveDuplicateElementFromArray.deps.json
+D:\ConsecutiveDuplicateElementFromArray\bin\Debug\net5.0\ConsecutiveDuplicateElementFromArray.runtimeconfig.json
+D:\ConsecutiveDuplicateElementFromArray\bin\Debug\net5.0\ConsecutiveDuplicateElementFromArray.runtimeconfig.dev.json
+D:\ConsecutiveDuplicateElementFromArray\bin\Debug\net5.0\ConsecutiveDuplicateElementFromArray.dll
+D:\ConsecutiveDuplicateElementFromArray\bin\Debug\net5.0\ref\ConsecutiveDuplicateElementFromArray.dll
+D:\ConsecutiveDuplicateElementFromArray\bin\Debug\net5.0\ConsecutiveDuplicateElementFromArray.pdb
+D:\ConsecutiveDuplicateElementFromArray\obj\Debug\net5.0\ConsecutiveDuplicateElementFromArray.csproj.AssemblyReference.cache
+D:\ConsecutiveDuplicateElementFromArray\obj\Debug\net5.0\ConsecutiveDuplicateElementFromArray.GeneratedMSBuildEditorConfig.editorconfig
+D:\ConsecutiveDuplicateElementFromArray\obj\Debug\net5.0\ConsecutiveDuplicateElementFromArray.AssemblyInfoInputs.cache
+D:\ConsecutiveDuplicateElementFromArray\obj\Debug\net5.0\ConsecutiveDuplicateElementFromArray.AssemblyInfo.cs
+D:\ConsecutiveDuplicateElementFromArray\obj\Debug\net5.0\ConsecutiveDuplicateElementFromArray.csproj.CoreCompileInputs.cache
+D:\ConsecutiveDuplicateElementFromArray\obj\Debug\net5.0\ConsecutiveDuplicateElementFromArray.dll
+D:\ConsecutiveDuplicateElementFromArray\obj\Debug\net5.0\ref\ConsecutiveDuplicateElementFromArray.dll
+D:\ConsecutiveDuplicateElementFromArray\obj\Debug\net5.0\ConsecutiveDuplicateElementFromArray.pdb
+D:\ConsecutiveDuplicateElementFromArray\obj\Debug\net5.0\ConsecutiveDuplicateElementFromArray.genruntimeconfig.cache
